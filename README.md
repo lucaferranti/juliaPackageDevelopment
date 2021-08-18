@@ -16,10 +16,10 @@ This tutorial is meant for people who have previous coding experience and would 
 
 3. Clone this repository to your preferred location and enter it
   ```
-  git clone ...
+  git clone https://github.com/lucaferranti/juliaPackageDevelopment.git
   ```
   ```
-  cd juliaPkgDevelopment
+  cd juliaPackageDevelopment
   ```
 
 4. Start a Julia Session
