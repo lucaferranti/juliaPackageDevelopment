@@ -3,8 +3,8 @@
 ```julia
 using PkgTemplates
 t = Template(;
-    user = "johndoe",
-    authors = "John Doe",
+    user = "lucaferranti",
+    authors = "Luca Ferranti et al.",
     julia = VERSION,
     plugins = [
         Git(),
