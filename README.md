@@ -29,7 +29,7 @@ This tutorial is meant for people who have previous coding experience and would 
 
 5 Activate and instantiate the environment, this will make sure you have downloaded all the packages needed for the tutorial
   ```julia
-  julia> using Pkg; Pkg.activate(__@DIR__); Pkg.instantiate()
+  julia> using Pkg; Pkg.activate(@__DIR__); Pkg.instantiate()
   ```
 
 6. Verify it was successful by doing e.g.
